@@ -1,2 +1,2 @@
 ﻿# About me
-My personal portfolio: https://github.com/m-boutaleb
+My personal portfolio: http://m-boutaleb.github.io/
